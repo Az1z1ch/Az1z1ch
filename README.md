@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm Azizjon Ochilov
+# 👋 Hi there, I'm Aziz Ochilov
 
 ### 🤖 ML Engineer | NLP Specialist | AI Enthusiast
 
@@ -118,7 +118,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-aziz.ochilov.02@mail.ru-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aziz.ochilov.02@mail.ru)
-[![Phone](https://img.shields.io/badge/Phone-+7%20(901)%20748--71--97-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79017487197)
+[![Telegram](https://img.shields.io/badge/Telegram-@az1z1ch-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/az1z1ch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aziz%20Ochilov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ochilov-a913a4367/)
 
 </div>
 
@@ -133,4 +134,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
 
 </div>
-
